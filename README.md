@@ -9,14 +9,22 @@
 </div>
 
 <!-----About Me --------->
- 
+
 ## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="30px" align="center"></picture><b> About Me</b>
 
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="320"/>
 
+👋 Hola, soy **Carlos Alberto Goicochea Mirano**, **Ingeniero de Sistemas y desarrollador de software** con experiencia en el desarrollo de **aplicaciones web y móviles**.
+
+Me especializo en la creación de **soluciones digitales eficientes, escalables y centradas en el usuario**, participando tanto en el **frontend como en el backend**.  
+He trabajado en proyectos como **CRMs, aplicaciones móviles, sistemas administrativos y plataformas web**, integrando **APIs REST** y optimizando procesos de datos.
+
+Disfruto aprender nuevas tecnologías, enfrentar desafíos técnicos y colaborar en **equipos multidisciplinarios** para generar **productos de alto valor**.
+
+---
+
 ![](https://img.shields.io/badge/📫%20Reach%20out%20to%20me-%23323330?style=for-the-badge&logoColor=white)
 ![](https://img.shields.io/badge/atonoma.carlos97@gmail.com-%23ED8B00?style=for-the-badge&logoColor=white)
-
 
  <!--------------- About me end ---------------->
 
