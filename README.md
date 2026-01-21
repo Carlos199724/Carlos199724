@@ -14,12 +14,12 @@
 
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="320"/>
 
-👋 ¡Hola! Soy **Ingeniero de Sistemas y desarrollador de software**, con experiencia en la creación de **aplicaciones web y móviles**.
+👋 Hi! I'm a **Systems Engineer and Software Developer** with experience creating **web and mobile applications**.
 
-Me enfoco en construir **soluciones digitales eficientes, escalables y centradas en el usuario**, trabajando tanto en **frontend como en backend**.  
-He participado en proyectos como **CRMs, aplicaciones móviles, sistemas administrativos y plataformas web**, integrando **APIs REST** y optimizando procesos de datos.
+I focus on building **efficient, scalable, and user-centric digital solutions**, working on both **frontend and backend**.
+I've participated in projects such as **CRMs, mobile applications, administrative systems, and web platforms**, integrating **REST APIs** and optimizing data processes.
 
-Me apasiona aprender nuevas tecnologías, enfrentar desafíos técnicos y colaborar en **equipos multidisciplinarios** para crear **productos de alto valor**.
+I'm passionate about learning new technologies, tackling technical challenges, and collaborating in **multidisciplinary teams** to create **high-value products**.
 
 
 ---
