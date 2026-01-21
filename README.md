@@ -14,12 +14,10 @@
 
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="320"/>
 
-👋 Hola, soy **Carlos Alberto Goicochea Mirano**, **Ingeniero de Sistemas y desarrollador de software** con experiencia en el desarrollo de **aplicaciones web y móviles**.
-
-Me especializo en la creación de **soluciones digitales eficientes, escalables y centradas en el usuario**, participando tanto en el **frontend como en el backend**.  
-He trabajado en proyectos como **CRMs, aplicaciones móviles, sistemas administrativos y plataformas web**, integrando **APIs REST** y optimizando procesos de datos.
-
-Disfruto aprender nuevas tecnologías, enfrentar desafíos técnicos y colaborar en **equipos multidisciplinarios** para generar **productos de alto valor**.
+👋 Hi, I'm **Carlos Alberto Goicochea Mirano**, a **Systems Engineer and Software Developer** with experience in developing **web and mobile applications**.
+I specialize in creating **efficient, scalable, and user-centered digital solutions**, participating in both **frontend and backend** development.
+I've worked on projects such as **CRMs, mobile applications, administrative systems, and web platforms**, integrating **REST APIs** and optimizing data processes.
+I enjoy learning new technologies, tackling technical challenges, and collaborating in **multidisciplinary teams** to create **high-value products**.
 
 ---
 
