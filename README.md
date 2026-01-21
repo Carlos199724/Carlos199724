@@ -6,17 +6,7 @@
     </div>
 <p align="center"><a href="https://carlos199724.github.io/PortafolioWeb/">Portfolio↗️</a></p>
 <div align=center>
- 
- [![wakatime](https://wakatime.com/badge/user/018b7c34-66c0-414f-bed4-3cc0802eb59d.svg?style=for-the-badge)](https://carlos199724.github.io/PortafolioWeb/)
- 
 </div>
-
-
-  
-![GitHub followers](https://img.shields.io/github/followers/arjuncvinod?style=for-the-badge&logo=github) ![GitHub User's stars](https://img.shields.io/github/stars/arjuncvinod?style=for-the-badge&logo=github) <img src="https://komarev.com/ghpvc/?username=arjuncvinod&style=for-the-badge&logo=github" alt="" />
-<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
-
 
 <!-----About Me --------->
  
