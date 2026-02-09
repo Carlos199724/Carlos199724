@@ -95,13 +95,6 @@ I'm passionate about learning new technologies, tackling technical challenges, a
  <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />            
 <br>
 
-### 😂 Here is a random joke that'll make you laugh!
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
-<p  align="center">
- <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
-<br>
-
 ## Here are some 🦜Parrots😂:
 
 <div>
@@ -140,8 +133,6 @@ I'm passionate about learning new technologies, tackling technical challenges, a
 <!--<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->      
  <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 <br>
-
- <h3 align="center"> Show some ❤️ by starring some of the repositories! </h3>
 
   
 
