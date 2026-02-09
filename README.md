@@ -95,33 +95,6 @@ I'm passionate about learning new technologies, tackling technical challenges, a
  <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />            
 <br>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-
-<!--- stats & Trophy (start) -->
-
-<p align="center">
- 
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-
-<td width="50%" align="center">
-  <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
-  <br><br>
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=arjuncvinod&theme=midnight-purple&show_icons=true&count_private=true&include_all_commits=false" />
-
-  <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
-  <br><br>
-
-  <img loading="lazy" title="🔥 Get streak stats" alt="streak stats"
-       src="https://github-readme-streak-stats.herokuapp.com/?user=arjuncvinod&theme=midnight-purple&hide_border=false" />
-
-  <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
-</td>
-
-<td width="50%" align="center">
-
 ### 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
